@@ -1,0 +1,6 @@
+glfw.zip
+*.dll
+*.lib
+*.exe
+out/**/*
+libs
